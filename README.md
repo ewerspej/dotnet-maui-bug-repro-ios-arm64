@@ -33,8 +33,8 @@ Build started...
 1>				VisualStudioProcessId=18044,
 1>				ContinueOnDisconnected=False
 1>Detected signing identity:
-1>  Code Signing Key: "Apple Development: Julian Ewers-Peters (H4YNPVSAM5)" (54D2880D911F98DEECF603395F14A9C0A6AAFCE1)
-1>  Provisioning Profile: "VS: WildCard Development" (1fa321df-dcb0-4c46-95ac-3ce18f82f3fc)
+1>  Code Signing Key: "Apple Development: Julian Ewers-Peters (...)" (...)
+1>  Provisioning Profile: "VS: WildCard Development" (...)
 1>  Bundle Id: com.companyname.bug_ios_arm64
 1>  App Id: P9BACKA8J2.com.companyname.bug_ios_arm64
 1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
